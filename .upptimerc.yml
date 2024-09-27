@@ -22,7 +22,7 @@ status-website:
   logoUrl: https://botbirdbiz.com/wp-content/themes/metabirds/images/common/logo@2x.png
   name: Botbird for Business - Service Status
   introTitle: "Botbird for Business uptime monitor and status page."
-  introMessage: "Portal: [Botbird for Business](https://botbirdbiz.com)"
+  introMessage: "Portal site: [Botbird for Business](https://botbirdbiz.com)"
   # navbar:
   #   - title: Status
   #     href: /
