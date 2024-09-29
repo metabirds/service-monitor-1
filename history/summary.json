@@ -22,18 +22,20 @@
     "url": "$TARGET_URL_ADMIN_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "admin-page-2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 982,
-    "timeDay": 1016,
-    "timeWeek": 982,
-    "timeMonth": 982,
-    "timeYear": 982,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 898,
+    "timeDay": 791,
+    "timeWeek": 898,
+    "timeMonth": 898,
+    "timeYear": 898,
+    "dailyMinutesDown": {
+      "2024-09-29": 0
+    }
   },
   {
     "name": "Web chat 1a",
@@ -59,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-chat-1b",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4748,
     "timeDay": 4599,
     "timeWeek": 4748,
     "timeMonth": 4748,
     "timeYear": 4748,
-    "dailyMinutesDown": {
-      "2024-09-29": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Web chat 2a",
