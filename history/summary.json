@@ -58,19 +58,19 @@
     "url": "$TARGET_URL_WEBCHAT_1B",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-chat-1b",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4896,
-    "timeDay": 5592,
-    "timeWeek": 4896,
-    "timeMonth": 4896,
-    "timeYear": 4896,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 4900,
+    "timeDay": 5377,
+    "timeWeek": 4900,
+    "timeMonth": 4900,
+    "timeYear": 4900,
     "dailyMinutesDown": {
-      "2024-10-04": 0
+      "2024-10-04": 7
     }
   },
   {
