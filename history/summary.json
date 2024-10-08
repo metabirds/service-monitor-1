@@ -76,9 +76,9 @@
     "url": "$TARGET_URL_WEBCHAT_2A",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-chat-2a",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 3805,
     "timeMonth": 4042,
     "timeYear": 4042,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-08": 0
+    }
   }
 ]
