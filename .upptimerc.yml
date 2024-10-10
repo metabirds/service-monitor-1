@@ -13,6 +13,10 @@ sites:
     url: $TARGET_URL_WEBCHAT_1B
   - name: Web chat 2a
     url: $TARGET_URL_WEBCHAT_2A
+  - name: Webhook 1
+    url: $TARGET_URL_WEBHOOK_1
+  - name: Webhook 2
+    url: $TARGET_URL_WEBHOOK_2
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
