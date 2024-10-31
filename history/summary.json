@@ -94,18 +94,20 @@
     "url": "$TARGET_URL_WEBHOOK_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webhook-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 121,
-    "timeWeek": 252,
-    "timeMonth": 258,
-    "timeYear": 258,
-    "dailyMinutesDown": {}
+    "time": 254,
+    "timeDay": 151,
+    "timeWeek": 243,
+    "timeMonth": 254,
+    "timeYear": 254,
+    "dailyMinutesDown": {
+      "2024-10-31": 0
+    }
   },
   {
     "name": "Webhook 2",
