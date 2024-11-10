@@ -4,18 +4,20 @@
     "url": "$TARGET_URL_ADMIN_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "admin-page-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 350,
-    "timeWeek": 158,
-    "timeMonth": 232,
-    "timeYear": 229,
-    "dailyMinutesDown": {}
+    "time": 226,
+    "timeDay": 248,
+    "timeWeek": 145,
+    "timeMonth": 228,
+    "timeYear": 226,
+    "dailyMinutesDown": {
+      "2024-11-10": 0
+    }
   },
   {
     "name": "Admin page 2",
@@ -31,7 +33,7 @@
     "time": 614,
     "timeDay": 404,
     "timeWeek": 595,
-    "timeMonth": 528,
+    "timeMonth": 527,
     "timeYear": 614,
     "dailyMinutesDown": {}
   },
@@ -49,7 +51,7 @@
     "time": 4669,
     "timeDay": 4393,
     "timeWeek": 4364,
-    "timeMonth": 4685,
+    "timeMonth": 4684,
     "timeYear": 4669,
     "dailyMinutesDown": {}
   },
@@ -67,7 +69,7 @@
     "time": 4867,
     "timeDay": 4567,
     "timeWeek": 4744,
-    "timeMonth": 4927,
+    "timeMonth": 4934,
     "timeYear": 4867,
     "dailyMinutesDown": {}
   },
@@ -85,7 +87,7 @@
     "time": 3618,
     "timeDay": 3393,
     "timeWeek": 3435,
-    "timeMonth": 3470,
+    "timeMonth": 3466,
     "timeYear": 3618,
     "dailyMinutesDown": {}
   },
@@ -103,7 +105,7 @@
     "time": 250,
     "timeDay": 361,
     "timeWeek": 224,
-    "timeMonth": 250,
+    "timeMonth": 252,
     "timeYear": 250,
     "dailyMinutesDown": {}
   },
@@ -121,7 +123,7 @@
     "time": 533,
     "timeDay": 404,
     "timeWeek": 559,
-    "timeMonth": 533,
+    "timeMonth": 532,
     "timeYear": 533,
     "dailyMinutesDown": {}
   }
