@@ -40,36 +40,40 @@
     "url": "$TARGET_URL_WEBCHAT_1A",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-chat-1a",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4648,
-    "timeDay": 4732,
-    "timeWeek": 4486,
-    "timeMonth": 4625,
-    "timeYear": 4648,
-    "dailyMinutesDown": {}
+    "time": 5067,
+    "timeDay": 17067,
+    "timeWeek": 7600,
+    "timeMonth": 5399,
+    "timeYear": 5067,
+    "dailyMinutesDown": {
+      "2024-11-21": 2
+    }
   },
   {
     "name": "Web chat 1b",
     "url": "$TARGET_URL_WEBCHAT_1B",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-chat-1b",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4793,
-    "timeDay": 4728,
-    "timeWeek": 4521,
-    "timeMonth": 4820,
-    "timeYear": 4793,
-    "dailyMinutesDown": {}
+    "time": 5160,
+    "timeDay": 17048,
+    "timeWeek": 7627,
+    "timeMonth": 5588,
+    "timeYear": 5160,
+    "dailyMinutesDown": {
+      "2024-11-21": 0
+    }
   },
   {
     "name": "Web chat 2a",
