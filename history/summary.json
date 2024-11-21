@@ -40,19 +40,19 @@
     "url": "$TARGET_URL_WEBCHAT_1A",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-chat-1a",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5067,
-    "timeDay": 17067,
-    "timeWeek": 7600,
-    "timeMonth": 5399,
-    "timeYear": 5067,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "91.35%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.84%",
+    "time": 5061,
+    "timeDay": 12937,
+    "timeWeek": 7275,
+    "timeMonth": 5377,
+    "timeYear": 5061,
     "dailyMinutesDown": {
-      "2024-11-21": 2
+      "2024-11-21": 125
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "$TARGET_URL_WEBCHAT_1B",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-chat-1b",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5160,
-    "timeDay": 17048,
-    "timeWeek": 7627,
-    "timeMonth": 5588,
-    "timeYear": 5160,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "91.44%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.84%",
+    "time": 5171,
+    "timeDay": 13337,
+    "timeWeek": 7437,
+    "timeMonth": 5597,
+    "timeYear": 5171,
     "dailyMinutesDown": {
-      "2024-11-21": 0
+      "2024-11-21": 123
     }
   },
   {
