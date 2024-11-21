@@ -1,7 +1,7 @@
 url: $TARGET_URL_ADMIN_2
-status: up
-code: 200
-responseTime: 497
-lastUpdated: 2024-11-20T23:01:36.297Z
+status: down
+code: 502
+responseTime: 862
+lastUpdated: 2024-11-21T23:00:21.607Z
 startTime: 2024-09-27T05:43:00.797Z
 generator: Upptime <https://github.com/upptime/upptime>
