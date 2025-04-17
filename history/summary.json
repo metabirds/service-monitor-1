@@ -24,7 +24,7 @@
     "slug": "admin-page-2",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,6 +34,7 @@
     "timeMonth": 585,
     "timeYear": 582,
     "dailyMinutesDown": {
+      "2025-04-17": 0,
       "2024-12-09": 37
     }
   },
@@ -49,7 +50,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 5504,
-    "timeDay": 12738,
+    "timeDay": 3681,
     "timeWeek": 12738,
     "timeMonth": 12738,
     "timeYear": 5504,
@@ -102,36 +103,39 @@
     "url": "$TARGET_URL_WEBHOOK_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webhook-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 133,
-    "timeWeek": 133,
-    "timeMonth": 133,
-    "timeYear": 231,
-    "dailyMinutesDown": {}
+    "time": 229,
+    "timeDay": 113,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 229,
+    "dailyMinutesDown": {
+      "2025-04-17": 0
+    }
   },
   {
     "name": "Webhook 2",
     "url": "$TARGET_URL_WEBHOOK_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webhook-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 548,
-    "timeDay": 575,
-    "timeWeek": 575,
-    "timeMonth": 575,
+    "timeDay": 556,
+    "timeWeek": 556,
+    "timeMonth": 556,
     "timeYear": 548,
     "dailyMinutesDown": {
+      "2025-04-17": 0,
       "2024-11-13": 43
     }
   }
