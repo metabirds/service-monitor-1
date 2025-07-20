@@ -6,8 +6,8 @@
     "slug": "admin-page-1",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
@@ -15,9 +15,7 @@
     "timeWeek": 232,
     "timeMonth": 279,
     "timeYear": 239,
-    "dailyMinutesDown": {
-      "2025-07-19": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin page 2",
