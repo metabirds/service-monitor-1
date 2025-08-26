@@ -1,7 +1,7 @@
 url: $TARGET_URL_WEBHOOK_1
-status: down
-code: 503
-responseTime: 344
-lastUpdated: 2025-08-26T12:00:15.142Z
+status: up
+code: 200
+responseTime: 230
+lastUpdated: 2025-08-26T12:15:08.188Z
 startTime: 2024-10-10T07:55:38.653Z
 generator: Upptime <https://github.com/upptime/upptime>
