@@ -4,19 +4,19 @@
     "url": "$TARGET_URL_ADMIN_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "admin-page-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 214,
-    "timeWeek": 239,
-    "timeMonth": 231,
-    "timeYear": 239,
+    "time": 238,
+    "timeDay": 185,
+    "timeWeek": 209,
+    "timeMonth": 228,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-08-30": 0
+      "2025-08-30": 10
     }
   },
   {
