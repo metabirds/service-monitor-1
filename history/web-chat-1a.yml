@@ -1,7 +1,7 @@
 url: $TARGET_URL_WEBCHAT_1A
-status: down
-code: 504
-responseTime: 29374
-lastUpdated: 2025-09-03T05:59:47.524Z
+status: up
+code: 200
+responseTime: 5264
+lastUpdated: 2025-09-03T06:11:30.134Z
 startTime: 2024-09-27T06:53:52.930Z
 generator: Upptime <https://github.com/upptime/upptime>
