@@ -17,6 +17,10 @@ sites:
     url: $TARGET_URL_WEBHOOK_1
   - name: Webhook 2
     url: $TARGET_URL_WEBHOOK_2
+  - name: Engine 1a
+    url: $TARGET_URL_ENGINE_1A
+  - name: Engine 1b
+    url: $TARGET_URL_ENGINE_1B
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
