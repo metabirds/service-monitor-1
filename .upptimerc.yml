@@ -5,22 +5,40 @@ repo: service-monitor-1 # The name of this repository
 sites:
   - name: Admin page 1
     url: $TARGET_URL_ADMIN_1
+    headers:
+      - "x-custom-auth-key: $CUSTOM_AUTH_TOKEN"
   - name: Admin page 2
     url: $TARGET_URL_ADMIN_2
+    headers:
+      - "x-custom-auth-key: $CUSTOM_AUTH_TOKEN"
   - name: Web chat 1a
     url: $TARGET_URL_WEBCHAT_1A
+    headers:
+      - "x-custom-auth-key: $CUSTOM_AUTH_TOKEN"
   - name: Web chat 1b
     url: $TARGET_URL_WEBCHAT_1B
+    headers:
+      - "x-custom-auth-key: $CUSTOM_AUTH_TOKEN"
   - name: Web chat 2a
     url: $TARGET_URL_WEBCHAT_2A
+    headers:
+      - "x-custom-auth-key: $CUSTOM_AUTH_TOKEN"
   - name: Webhook 1
     url: $TARGET_URL_WEBHOOK_1
+    headers:
+      - "x-custom-auth-key: $CUSTOM_AUTH_TOKEN"
   - name: Webhook 2
     url: $TARGET_URL_WEBHOOK_2
+    headers:
+      - "x-custom-auth-key: $CUSTOM_AUTH_TOKEN"
   - name: Engine 1a
     url: $TARGET_URL_ENGINE_1A
+    headers:
+      - "x-custom-auth-key: $CUSTOM_AUTH_TOKEN"
   - name: Engine 1b
     url: $TARGET_URL_ENGINE_1B
+    headers:
+      - "x-custom-auth-key: $CUSTOM_AUTH_TOKEN"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
