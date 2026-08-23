@@ -13,7 +13,7 @@
     "time": 266,
     "timeDay": 745,
     "timeWeek": 365,
-    "timeMonth": 288,
+    "timeMonth": 287,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2025-10-20": 832,
@@ -38,7 +38,7 @@
     "time": 526,
     "timeDay": 400,
     "timeWeek": 431,
-    "timeMonth": 471,
+    "timeMonth": 473,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2025-10-06": 11,
@@ -63,7 +63,7 @@
     "time": 5737,
     "timeDay": 4789,
     "timeWeek": 4529,
-    "timeMonth": 4483,
+    "timeMonth": 4485,
     "timeYear": 5779,
     "dailyMinutesDown": {
       "2025-10-08": 224,
@@ -97,7 +97,7 @@
     "time": 4659,
     "timeDay": 4649,
     "timeWeek": 4545,
-    "timeMonth": 4529,
+    "timeMonth": 4532,
     "timeYear": 4610,
     "dailyMinutesDown": {
       "2025-10-20": 153,
@@ -118,7 +118,7 @@
     "time": 2995,
     "timeDay": 3027,
     "timeWeek": 2896,
-    "timeMonth": 2977,
+    "timeMonth": 2967,
     "timeYear": 3070,
     "dailyMinutesDown": {
       "2025-11-03": 16,
@@ -139,7 +139,7 @@
     "time": 282,
     "timeDay": 358,
     "timeWeek": 310,
-    "timeMonth": 296,
+    "timeMonth": 293,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2025-09-02": 16,
@@ -154,14 +154,14 @@
     "slug": "webhook-2",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.81%",
     "time": 625,
     "timeDay": 400,
     "timeWeek": 438,
-    "timeMonth": 475,
+    "timeMonth": 477,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2025-12-02": 43,
@@ -177,8 +177,7 @@
       "2026-06-04": 247,
       "2026-06-05": 18,
       "2026-06-13": 45,
-      "2026-07-25": 36,
-      "2026-08-22": 10
+      "2026-07-25": 36
     }
   },
   {
@@ -195,7 +194,7 @@
     "time": 218,
     "timeDay": 330,
     "timeWeek": 268,
-    "timeMonth": 245,
+    "timeMonth": 242,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2026-04-02": 36,
@@ -217,7 +216,7 @@
     "time": 237,
     "timeDay": 349,
     "timeWeek": 308,
-    "timeMonth": 244,
+    "timeMonth": 241,
     "timeYear": 237,
     "dailyMinutesDown": {}
   }
