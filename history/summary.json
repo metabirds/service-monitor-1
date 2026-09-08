@@ -151,15 +151,15 @@
     "url": "$TARGET_URL_WEBHOOK_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webhook-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.81%",
     "time": 624,
-    "timeDay": 391,
-    "timeWeek": 532,
+    "timeDay": 434,
+    "timeWeek": 527,
     "timeMonth": 499,
     "timeYear": 653,
     "dailyMinutesDown": {
@@ -177,7 +177,8 @@
       "2026-06-05": 18,
       "2026-06-13": 45,
       "2026-07-25": 36,
-      "2026-09-01": 20
+      "2026-09-01": 20,
+      "2026-09-08": 0
     }
   },
   {
